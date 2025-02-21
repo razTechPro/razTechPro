@@ -5,7 +5,7 @@
 
 #### The focus is on the engineers doing the work and the manner in which they work together to deliver working software. 
 
-#### At Zipcode Wilmington, Agile is the marriage of ProDev and Technical.
+#### At Zipcode Wilmington, Agile is the marriage of ProDev and the Java/Data program.
 
 
 ## Successful Technical Teams
